@@ -1,0 +1,110 @@
+02:18:45.381 ERROR logdemo -this is error
+02:18:45.385 FATAL logdemo -this is fatal
+02:19:59.993 ERROR Sample.log4J2 -Error Message Logged
+02:19:59.997 FATAL Sample.log4J2 -Fatal Message Logged
+02:31:52.021 ERROR logdemo -this is error
+02:31:52.025 FATAL logdemo -this is fatal
+02:32:24.315 ERROR Sample.log4J2 -Error Message Logged
+02:32:24.318 FATAL Sample.log4J2 -Fatal Message Logged
+05:03:33.829 INFO  SearchPage -Navigate to flights tab
+05:03:33.892 INFO  SearchPage -Origin text box element found
+05:16:12.197 INFO  SearchPage -Navigate to flights tab
+05:16:12.245 INFO  SearchPage -Origin text box element found
+05:16:12.651 INFO  SearchPage -Enter origin city as New York
+05:16:12.673 INFO  SearchPage -Destination text box element found
+05:16:12.711 INFO  SearchPage -Enter destination city as Chicago
+05:16:12.735 INFO  SearchPage -Enter departure date as 12/25/2014
+05:16:12.817 INFO  SearchPage -Enter return date as 12/31/2014
+05:17:20.046 INFO  SearchPage -Navigate to flights tab
+05:17:20.115 INFO  SearchPage -Origin text box element found
+05:17:20.145 INFO  SearchPage -Enter origin city as New York
+05:17:20.158 INFO  SearchPage -Destination text box element found
+05:17:20.184 INFO  SearchPage -Enter destination city as Chicago
+05:17:20.265 INFO  SearchPage -Enter departure date as 12/25/2014
+05:17:20.388 INFO  SearchPage -Enter return date as 12/31/2014
+05:19:23.987 INFO  SearchPage -Navigate to flights tab
+05:19:24.061 INFO  SearchPage -Origin text box element found
+05:19:24.108 INFO  SearchPage -Enter origin city as New York
+05:19:24.131 INFO  SearchPage -Destination text box element found
+05:19:24.155 INFO  SearchPage -Enter destination city as Chicago
+05:19:24.258 INFO  SearchPage -Enter departure date as 12/25/2017
+05:19:24.448 INFO  SearchPage -Enter return date as 12/31/2017
+05:21:01.581 INFO  SearchPage -Navigate to flights tab
+05:21:01.680 INFO  SearchPage -Origin text box element found
+05:21:01.757 INFO  SearchPage -Enter origin city as New York
+05:21:01.773 INFO  SearchPage -Destination text box element found
+05:21:01.793 INFO  SearchPage -Enter destination city as Chicago
+05:21:01.833 INFO  SearchPage -Enter departure date as 12/25/2017
+05:21:01.961 INFO  SearchPage -Enter return date as 12/31/2017
+05:22:57.675 INFO  TestNG_TestCase -Completed Before Method
+05:23:02.914 INFO  SearchPage -Navigate to flights tab
+05:23:03.038 INFO  SearchPage -Origin text box element found
+05:23:03.162 INFO  SearchPage -Enter origin city as New York
+05:23:03.239 INFO  SearchPage -Destination text box element found
+05:23:03.293 INFO  SearchPage -Enter destination city as Chicago
+05:23:03.444 INFO  SearchPage -Enter departure date as 12/25/2017
+05:23:03.681 INFO  SearchPage -Enter return date as 12/31/2017
+05:23:03.681 INFO  TestNG_TestCase -Completed Test Method
+13:40:40.208 [main] INFO  TestNG_TestCase - Completed Before Method
+13:40:48.124 [main] INFO  SearchPage - Navigate to flights tab
+13:40:48.221 [main] INFO  SearchPage - Origin text box element found
+13:40:48.290 [main] INFO  SearchPage - Enter origin city as New York
+13:40:48.349 [main] INFO  SearchPage - Destination text box element found
+13:40:48.395 [main] INFO  SearchPage - Enter destination city as Chicago
+13:40:48.430 [main] INFO  SearchPage - Enter departure date as 12/25/2017
+13:40:48.569 [main] INFO  SearchPage - Enter return date as 12/31/2017
+13:40:48.569 [main] INFO  TestNG_TestCase - Completed Test Method
+13:43:16.105 INFO  TestNG_TestCase:27 - Completed Before Method
+13:43:21.234 INFO  SearchPage:133 - Navigate to flights tab
+13:43:21.280 INFO  SearchPage:22 - Origin text box element found
+13:43:21.468 INFO  SearchPage:35 - Enter origin city as New York
+13:43:21.487 INFO  SearchPage:45 - Destination text box element found
+13:43:21.510 INFO  SearchPage:58 - Enter destination city as Chicago
+13:43:21.645 INFO  SearchPage:80 - Enter departure date as 12/25/2017
+13:43:21.786 INFO  SearchPage:103 - Enter return date as 12/31/2017
+13:43:21.786 INFO  TestNG_TestCase:39 - Completed Test Method
+13:44:44.547 INFO  TestNG_TestCase:27 - Completed Before Method
+13:44:52.000 INFO  SearchPage:133 - Navigate to flights tab
+13:44:52.054 INFO  SearchPage:22 - Origin text box element found
+13:44:52.112 INFO  SearchPage:35 - Enter origin city as New York
+13:44:52.125 INFO  SearchPage:45 - Destination text box element found
+13:44:52.140 INFO  SearchPage:58 - Enter destination city as Chicago
+13:44:52.184 INFO  SearchPage:80 - Enter departure date as 12/25/2017
+13:44:52.323 INFO  SearchPage:103 - Enter return date as 12/31/2017
+13:44:52.323 INFO  TestNG_TestCase:39 - Completed Test Method
+13:46:10.324 INFO  TestNG_TestCase:27 - Completed Before Method
+13:46:19.331 INFO  SearchPage:133 - Navigate to flights tab
+13:46:19.404 INFO  SearchPage:22 - Origin text box element found
+13:46:19.439 INFO  SearchPage:35 - Enter origin city as New York
+13:46:19.464 INFO  SearchPage:45 - Destination text box element found
+13:46:19.490 INFO  SearchPage:58 - Enter destination city as Chicago
+13:46:19.542 INFO  SearchPage:80 - Enter departure date as 12/25/2017
+13:46:19.691 INFO  SearchPage:103 - Enter return date as 12/31/2017
+13:46:19.691 INFO  TestNG_TestCase:39 - Completed Test Method
+13:47:50.362 INFO  TestNG_TestCase:27 - Completed Before Method
+13:47:59.325 INFO  SearchPage:133 - Navigate to flights tab
+13:47:59.420 INFO  SearchPage:22 - Origin text box element found
+13:47:59.451 INFO  SearchPage:35 - Enter origin city as New York
+13:47:59.467 INFO  SearchPage:45 - Destination text box element found
+13:47:59.487 INFO  SearchPage:58 - Enter destination city as Chicago
+13:47:59.542 INFO  SearchPage:80 - Enter departure date as 12/25/2017
+13:47:59.724 INFO  SearchPage:103 - Enter return date as 12/31/2017
+13:47:59.725 INFO  TestNG_TestCase:39 - Completed Test Method
+14:03:55.820 INFO  Sample.TestNG_TestCase:28 - Completed Before Method
+14:04:04.431 INFO  Sample.SearchPage:134 - Navigate to flights tab
+14:04:04.498 INFO  Sample.SearchPage:23 - Origin text box element found
+14:04:04.532 INFO  Sample.SearchPage:36 - Enter origin city as New York
+14:04:04.551 INFO  Sample.SearchPage:46 - Destination text box element found
+14:04:04.578 INFO  Sample.SearchPage:59 - Enter destination city as Chicago
+14:04:04.633 INFO  Sample.SearchPage:81 - Enter departure date as 12/25/2017
+14:04:05.246 INFO  Sample.SearchPage:104 - Enter return date as 12/31/2017
+14:04:05.246 INFO  Sample.TestNG_TestCase:40 - Completed Test Method
+14:09:12.071 INFO Sample.TestNG_TestCase:28 - Completed Before Method
+14:09:21.067 INFO Sample.SearchPage:134 - Navigate to flights tab
+14:09:21.142 INFO Sample.SearchPage:23 - Origin text box element found
+14:09:21.182 INFO Sample.SearchPage:36 - Enter origin city as New York
+14:09:21.228 INFO Sample.SearchPage:46 - Destination text box element found
+14:09:21.249 INFO Sample.SearchPage:59 - Enter destination city as Chicago
+14:09:21.296 INFO Sample.SearchPage:81 - Enter departure date as 12/25/2017
+14:09:21.361 INFO Sample.SearchPage:104 - Enter return date as 12/31/2017
+14:09:21.362 INFO Sample.TestNG_TestCase:40 - Completed Test Method

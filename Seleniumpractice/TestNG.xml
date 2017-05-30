@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name = "TestNG">
+	<Test name="Expedia" preserve-order="true">
+		<groups>
+			<run>
+			<include name = "BMW"/>
+			</run>
+		</groups>
+		<Classes>	
+			<Class name="Seleniumdemo.Grouping">		
+			</Class>
+		</Classes>		
+	</Test>	
+</Suite>
